@@ -8,7 +8,7 @@
 <h5>Languages</h5>
 <div class="row">
 	<div class="large-3 columns skillset">
-		<h5>PHP <small>(Laravel / Codeigniter)</small></h5>
+		<h5>PHP <small>(Laravel / CodeIgniter)</small></h5>
 		<ul>
 			<li><i class="icon-circle"></i></li>
 			<li><i class="icon-circle"></i></li>
@@ -28,7 +28,7 @@
 		</ul>
 	</div>
 	<div class="large-3 columns skillset">
-		<h5>HTML/CSS <small>(Bootstrap / Foundation)</small></h5>
+		<h5>HTML5/CSS</h5>
 		<ul>
 			<li><i class="icon-circle"></i></li>
 			<li><i class="icon-circle"></i></li>
@@ -47,11 +47,20 @@
 			<li><i class="icon-circle-blank"></i></li>
 		</ul>
 	</div>
-
 </div>
 <div class="row">
 	<div class="large-3 columns skillset">
 		<h5>Java</h5>
+		<ul>
+			<li><i class="icon-circle"></i></li>
+			<li><i class="icon-circle"></i></li>
+			<li><i class="icon-circle"></i></li>
+			<li><i class="icon-circle-blank"></i></li>
+			<li><i class="icon-circle-blank"></i></li>
+		</ul>
+	</div>
+	<div class="large-3 columns skillset">
+		<h5>C/C++</h5>
 		<ul>
 			<li><i class="icon-circle"></i></li>
 			<li><i class="icon-circle"></i></li>
@@ -70,12 +79,12 @@
 			<li><i class="icon-circle-blank"></i></li>
 		</ul>
 	</div>
-	<div class="large-6 columns skillset">
+	<div class="large-3 columns skillset">
 		<h5>Python <small>(Flask / Twisted)</small></h5>
 		<ul>
 			<li><i class="icon-circle"></i></li>
 			<li><i class="icon-circle"></i></li>
-			<li><i class="icon-circle"></i></li>
+			<li><i class="icon-circle-blank"></i></li>
 			<li><i class="icon-circle-blank"></i></li>
 			<li><i class="icon-circle-blank"></i></li>
 		</ul>
